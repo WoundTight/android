@@ -1,3 +1,3 @@
 android
 =======
-Randon acts of Android
+Random acts of Android
